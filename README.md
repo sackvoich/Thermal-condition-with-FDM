@@ -1,0 +1,3 @@
+# Description
+
+This desktop application is designed to numerically solve the thermal conductivity equation using the finite difference method (grid method). For the convenience of the user, a graphical interface has been written in which you can enter the conditions for the task (the length of the rod, the number of steps along the grid, the time step, and so on), select an explicit or implicit numerical scheme for discretizing the equation, as well as enter the initial conditions at each step along the grid through predefined functions or enter numerical values yourself.
